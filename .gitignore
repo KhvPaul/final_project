@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# IDEA
+.idea/
+
+# DB
+/shop/dev.db
+/store/dev.db
+
+# .env
+/shop/shop.env
+/store/store.env
